@@ -18,4 +18,5 @@ PRODUCT_MAKEFILES := \
 
 COMMON_LUNCH_CHOICES := \
     aex_X00P-user \
-    aex_X00P-userdebug
+    aex_X00P-userdebug \
+    aex_X00P-eng
