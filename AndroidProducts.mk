@@ -19,4 +19,4 @@ PRODUCT_MAKEFILES := \
 COMMON_LUNCH_CHOICES := \
     aosp_X00P-user \
     aosp_X00P-userdebug \
-    aosp_X00P-eng
+    aosp_X00P-eng \
