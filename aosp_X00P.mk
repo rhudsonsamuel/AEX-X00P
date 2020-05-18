@@ -32,7 +32,7 @@ $(call inherit-product, $(DEVICE_PATH)/device.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := X00P
-PRODUCT_NAME := aex_X00P
+PRODUCT_NAME := aosp_X00P
 PRODUCT_BRAND := asus
 PRODUCT_MODEL := ASUS_X00PD
 PRODUCT_MANUFACTURER := asus
